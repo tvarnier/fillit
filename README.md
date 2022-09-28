@@ -20,6 +20,31 @@ Il suffit ensuite de lancer la commande `./fillit <list_tetriminos>` (vous trouv
 
 <br>
 
-<div>
-  <img src="https://github.com/tvarnier/fillit/blob/master/img/example.png" width="30%">
-</div>
+```
+ ❯ cat test/test_02
+....
+##..
+.#..
+.#..
+
+....
+####
+....
+....
+
+#...
+###.
+....
+....
+
+....
+##..
+.##.
+....
+
+ ❯ ./fillit test/test_02
+DDAA
+CDDA
+CCCA
+BBBB
+```
