@@ -21,5 +21,5 @@ Il suffit ensuite de lancer la commande `./fillit <list_tetriminos>` (vous trouv
 <br>
 
 <div>
-  <img src="https://github.com/tvarnier/42/blob/master/algorithm/fillit/img/example.png" width="30%">
+  <img src="https://github.com/tvarnier/fillit/blob/master/img/example.png" width="30%">
 </div>
